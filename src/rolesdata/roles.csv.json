@@ -1,0 +1,54 @@
+[
+	{
+		"id" : "1",
+		"role_name" : "NIBSS ADMIN",
+		"user_type" : "nibss",
+		"description" : "Nibss Admin",
+		"status" : "2",
+		"created_by" : "0a4ce8d5-2466-4660-930f-49252d4df59f",
+		"updated_by" : null,
+		"created_at" : "2022-02-24",
+		"updated_at" : "2022-02-24 11:12:10",
+		"timestamp" : "2022-02-24 10:13:52.356748",
+		"slug" : "nibss_admin"
+	},
+	{
+		"id" : "2",
+		"role_name" : "NIBSS USER",
+		"user_type" : "nibss",
+		"description" : "Nibss user",
+		"status" : "2",
+		"created_by" : "0b3d00f5-952f-43a1-aae9-3cb1426a77bc",
+		"updated_by" : null,
+		"created_at" : "2022-02-25",
+		"updated_at" : "2022-02-25 12:00:37",
+		"timestamp" : "2022-02-27 20:35:59.207175",
+		"slug" : "nibss_user"
+	},
+	{
+		"id" : "3",
+		"role_name" : "INSTITUTION",
+		"user_type" : "institution",
+		"description" : "institution users",
+		"status" : "2",
+		"created_by" : "0a4ce8d5-2466-4660-930f-49252d4df59f",
+		"updated_by" : "0a4ce8d5-2466-4660-930f-49252d4df59f",
+		"created_at" : "2022-02-24",
+		"updated_at" : "2022-02-24 11:12:36",
+		"timestamp" : "2022-02-24 09:11:19.517325",
+		"slug" : "institution"
+	},
+	{
+		"id" : "4",
+		"role_name" : "AGENT",
+		"user_type" : "agent",
+		"description" : "Agent users",
+		"status" : "2",
+		"created_by" : "0a4ce8d5-2466-4660-930f-49252d4df59f",
+		"updated_by" : "0a4ce8d5-2466-4660-930f-49252d4df59f",
+		"created_at" : "2022-02-24",
+		"updated_at" : "2022-02-24 11:12:36",
+		"timestamp" : "2022-02-24 09:11:19.517325",
+		"slug" : "agent"
+	}
+]
